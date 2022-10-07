@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm .NET Developer
+I'm .NET Developer. Nice to see you in my Github.
 <!--
 **Kim-bk/Kim-bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
